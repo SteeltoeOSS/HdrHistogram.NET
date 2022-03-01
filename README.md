@@ -1,3 +1,5 @@
+# HdrHistogram.NET is no longer actively maintained by VMware, Inc.
+
 <img style="float: right;" align="right" height=64 src="https://raw.githubusercontent.com/HdrHistogram/HdrHistogram.NET/master/HdrHistogram-icon-64x64.png">
 
 # HdrHistogram
